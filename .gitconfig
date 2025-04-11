@@ -1,0 +1,16 @@
+[user]
+	name = Chris Conrad
+	email = rhavyn@gmail.com
+[push]
+	default = simple
+[color]
+	ui = auto
+[alias]
+	co = checkout
+	br = branch
+	st = status
+	unstage = reset HEAD --
+	last = log -1 HEAD
+	lg = log --oneline --graph --decorate --all
+[pull]
+	rebase = true
