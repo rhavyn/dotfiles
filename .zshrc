@@ -5,7 +5,7 @@ export ZSH="$HOME/.oh-my-zsh"
 ZSH_THEME="robbyrussell"
 
 # Plugins: Expand as needed
-plugins=(git)
+plugins=(git rails)
 
 source $ZSH/oh-my-zsh.sh
 
