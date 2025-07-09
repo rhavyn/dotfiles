@@ -11,3 +11,5 @@ source $ZSH/oh-my-zsh.sh
 
 # Set preferred shell path explicitly (helps tools that read $SHELL)
 export SHELL=$(which zsh)
+
+alias claude="/home/vscode/.claude/local/claude"
